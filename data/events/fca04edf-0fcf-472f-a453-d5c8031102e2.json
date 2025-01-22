@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "0229937c-7620-4da4-9405-72c5a20e4bfe": {
+      "label": "The Monster Mash by Bobby Boris Pickett: Everything You Didn't Know",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=xj1Pj7UA7Qw",
+      "duration": 301
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "The Monster Mash by Bobby Boris Pickett: Everything You Didn't Know",
+  "created_at": "2025-01-22T16:33:52.020Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-01-22T16:33:52.020Z",
+  "updated_by": "saamturner"
+}
